@@ -18,6 +18,9 @@
 body {
     background: var(--cream);
     color: var(--text);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* HEADER */
@@ -40,6 +43,7 @@ header h1 {
 main {
     height: 100dvh;
     padding-bottom: 80px;
+    flex: 1;
 }
 
 /* NAV */
