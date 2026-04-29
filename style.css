@@ -78,6 +78,7 @@ nav a:hover {
     transition: all 0.3s ease;
     transform: translateY(20px);
     opacity: 0;
+    z-index: 0;
 }
 
 .card.show {
