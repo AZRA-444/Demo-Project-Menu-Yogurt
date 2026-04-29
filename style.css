@@ -39,6 +39,7 @@ header h1 {
 
 main {
     height: 100dvh;
+    padding-bottom: 80px;
 }
 
 /* NAV */
